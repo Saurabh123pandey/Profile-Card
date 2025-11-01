@@ -34,13 +34,6 @@ It includes a profile image, name, bio, profession tag, and clickable social med
 
 ---
 
-## 📸 Preview
-
-![Profile Card Preview](./preview.png)  
-*(You can add a screenshot of your project here with this name)*
-
----
-
 ## 🧑‍💻 Author
 
 **Saurabh Pandey**  
